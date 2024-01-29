@@ -4,7 +4,6 @@ GoRouter router = GoRouter(
   routes: [
     GoRoute(
       path: '/',
-      
     ),
   ],
 );
